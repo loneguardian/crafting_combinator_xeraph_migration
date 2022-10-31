@@ -13,7 +13,11 @@ Make sure you have the following mods downloaded in your mods folder:
 ![Step 1](img/step%201.PNG)
 
 - Load the save
-- Step 1 autosave should be generated
+- Ignore the "Sync mods" option and choose "Load"
+
+![Step 2c](img/step%202c.PNG)
+
+- Step 1 autosave should be generated after the save has loaded
 
 ## Step 2
 - Enable the following mods:
@@ -26,7 +30,8 @@ Make sure you have the following mods downloaded in your mods folder:
 
 ![Step 2b](img/step%202b.PNG)
 
-- Step 2 autosave should be generated
+- Ignore the "Sync mods" option and choose "Load"
+- Step 2 autosave should be generated after Step 1.zip has loaded
 
 ## Step 3
 - Enable only Crafting Combinator Xeraph's Fork
@@ -37,6 +42,7 @@ Make sure you have the following mods downloaded in your mods folder:
 
 ![Step 3b](img/step%203b.PNG)
 
+- Ignore the "Sync mods" option and choose "Load"
 - Make a new save
 
 ## Migration complete
