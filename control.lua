@@ -27,14 +27,14 @@ script.on_event(defines.events.on_tick,
                 game.print("--------------------------------------------------------------------")
                 game.print("Crafting Combinator migration Step 1 completed, please use the generated auto-save to complete Step 2")
                 game.print("Saved as: _autosave-Crafting Combinator Migration Step 1.zip")
-                game.print("Next steps: disable the original crafting combinator mod -> enable Xeraph's fork -> load Step 1.zip")
+                game.print("Next steps: Disable the original crafting combinator mod -> Enable Xeraph's fork -> Load Step 1.zip")
                 global.status = 2
             else
                 game.auto_save("Crafting Combinator Migration Step 2")
                 game.print("--------------------------------------------------------------------")
                 game.print("Crafting Combinator migration Step 2 completed, please use the generated auto-save to complete Step 3")
                 game.print("Saved as: _autosave-Crafting Combinator Migration Step 2.zip")
-                game.print("Next steps: disable migration mod -> load Step 2.zip -> save as new file -> Migration complete")
+                game.print("Next steps: Disable migration bridge -> Load Step 2.zip -> Save as new file -> Migration complete")
                 global.status = 3
             end
             table.remove(save_queue, 1)
