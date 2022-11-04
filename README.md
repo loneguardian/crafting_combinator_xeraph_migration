@@ -3,8 +3,8 @@
 ## Prerequisites
 
 Make sure you have the following mods downloaded in your mods folder:
-- Crafting Combinator Xeraph's Fork
-- Crafting Combinator Xeraph's Fork Migration Bridge
+- [Crafting Combinator Xeraph's Fork](https://mods.factorio.com/mod/crafting_combinator_xeraph)
+- [Crafting Combinator Xeraph's Fork Migration Bridge](https://mods.factorio.com/mod/crafting_combinator_xeraph_migration)
 - [Modified Crafting Combinator mod v100.16.3](crafting_combinator_100.16.3.zip)
 
 ---
