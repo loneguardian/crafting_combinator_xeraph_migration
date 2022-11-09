@@ -5,7 +5,7 @@
 Make sure you have the following mods downloaded in your mods folder:
 - [Crafting Combinator Xeraph's Fork](https://mods.factorio.com/mod/crafting_combinator_xeraph)
 - [Crafting Combinator Xeraph's Fork Migration Bridge](https://mods.factorio.com/mod/crafting_combinator_xeraph_migration)
-- [Modified Crafting Combinator mod v100.16.3](https://github.com/loneguardian/crafting_combinator_xeraph_migration/raw/master/crafting_combinator_100.0.2.zip)
+- [Modified Crafting Combinator mod v100.0.2](https://github.com/loneguardian/crafting_combinator_xeraph_migration/raw/master/crafting_combinator_100.0.2.zip)
 
 ---
 
